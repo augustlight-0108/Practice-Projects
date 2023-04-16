@@ -1,0 +1,163 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?cpvk2h');
+  src:  url('fonts/icomoon.eot?cpvk2h#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?cpvk2h') format('truetype'),
+    url('fonts/icomoon.woff?cpvk2h') format('woff'),
+    url('fonts/icomoon.svg?cpvk2h#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-shopping-cart:before {
+  content: "\e918";
+}
+.icon-chevron-down:before {
+  content: "\e913";
+}
+.icon-chevron-left:before {
+  content: "\e914";
+}
+.icon-chevron-right:before {
+  content: "\e915";
+}
+.icon-chevron-up:before {
+  content: "\e916";
+}
+.icon-edit:before {
+  content: "\e919";
+}
+.icon-edit-2:before {
+  content: "\e91a";
+}
+.icon-edit-3:before {
+  content: "\e91b";
+}
+.icon-shopping-cart1:before {
+  content: "\e91c";
+}
+.icon-android:before {
+  content: "\e901";
+  color: #3ddc84;
+}
+.icon-apple:before {
+  content: "\e902";
+  color: #999;
+}
+.icon-facebook:before {
+  content: "\e903";
+  color: #1877f2;
+}
+.icon-github:before {
+  content: "\e904";
+}
+.icon-html5:before {
+  content: "\e905";
+  color: #e34f26;
+}
+.icon-huawei:before {
+  content: "\e906";
+  color: #f00;
+}
+.icon-python:before {
+  content: "\e907";
+  color: #3776ab;
+}
+.icon-steam:before {
+  content: "\e908";
+}
+.icon-visualstudiocode:before {
+  content: "\e909";
+  color: #007acc;
+}
+.icon-youtube:before {
+  content: "\e90a";
+  color: #f00;
+}
+.icon-bootstrap:before {
+  content: "\e917";
+  color: #563d7c;
+}
+.icon-jetbrains:before {
+  content: "\e900";
+}
+.icon-jinja:before {
+  content: "\e90b";
+  color: #b41717;
+}
+.icon-tiktok:before {
+  content: "\e90c";
+}
+.icon-twitch:before {
+  content: "\e90d";
+  color: #6441a4;
+}
+.icon-twitter:before {
+  content: "\e90e";
+  color: #1da1f2;
+}
+.icon-xiaomi:before {
+  content: "\e90f";
+  color: #fa6709;
+}
+.icon-yahoo:before {
+  content: "\e910";
+  color: #6001d2;
+}
+.icon-yandex:before {
+  content: "\e911";
+  color: #f00;
+}
+.icon-zhihu:before {
+  content: "\e912";
+  color: #0084ff;
+}
+.icon-checkmark:before {
+  content: "\e91d";
+}
+.icon-checkmark1:before {
+  content: "\e91e";
+}
+.icon-cancel:before {
+  content: "\e91f";
+}
+.icon-cancel1:before {
+  content: "\e920";
+}
+.icon-plus:before {
+  content: "\e921";
+}
+.icon-plus1:before {
+  content: "\e922";
+}
+.icon-minus:before {
+  content: "\e923";
+}
+.icon-minus1:before {
+  content: "\e924";
+}
+.icon-cog:before {
+  content: "\e925";
+}
+.icon-alarmclock:before {
+  content: "\e926";
+}
+.icon-time:before {
+  content: "\e927";
+}
